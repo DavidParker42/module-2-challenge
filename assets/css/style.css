@@ -7,15 +7,22 @@ header {
   color: rgb(251, 247, 247);
 }
 
+.logo-container{
+  display: flex;
+}
+
   nav li {
-    display: flex;
     display: inline;
-    justify-content: space-between;
     min-width: 100px;
     font-size: 20px;
-
+ }
+  .headshot{
+     width: 100px;
   }
-  
+   .nav-links {
+    display: flex;
+   }
+
   nav a {
     width: 250px;
     margin: 0 .5%;
