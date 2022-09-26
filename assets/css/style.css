@@ -58,9 +58,12 @@ header {
 
   #about-me {
     text-align: center;
-font-size: 175%;
 padding: 75px;
   }
+
+aside h3 {
+  
+}
 
   aside {
     text-align: right;
@@ -68,6 +71,7 @@ padding: 75px;
     padding-right: .5rem;
     margin-right: .5rem;
     float: left;
+    boarder-right: 2px black solid;
   }
 
   aside h3 {
@@ -108,7 +112,6 @@ padding: 75px;
   #contact {
     line-height: 1.5;
     text-align: center;
-    font-size: 175%;
     padding: 60px;
   }
 
