@@ -42,18 +42,28 @@ header {
     text-decoration: none;
   }
   
+  .underheader {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
 
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
 
   .work {
     margin: auto;
-    height: 700px;
-    width: 90%;
+    height: 560px;
+    width: 75%;
 
   }
 
 .gridPics{
-  height: 600px;
-  width: 700px;
+  height: 480px;
+  width: 560px;
   margin: auto;
   padding: 10px;
  
