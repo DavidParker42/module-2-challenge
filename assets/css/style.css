@@ -43,6 +43,7 @@ header {
   }
   
   .underheader {
+    display: flex;
     position: relative;
     text-align: center;
     color: white;
@@ -50,8 +51,27 @@ header {
 
   .bottom-left {
     position: absolute;
-    bottom: 8px;
-    left: 16px;
+    bottom: 72%;
+    left: 40%;
+    font-size: 200%;
+  }
+
+  #about-me {
+    text-align: center;
+font-size: 175%;
+padding: 75px;
+  }
+
+  aside {
+    text-align: right;
+    width: 40%;
+    padding-right: .5rem;
+    margin-right: .5rem;
+    float: left;
+  }
+
+  aside h3 {
+    font-size: 200%;
   }
 
   .work {
@@ -62,8 +82,8 @@ header {
   }
 
 .gridPics{
-  height: 480px;
-  width: 560px;
+  height: 308px;
+  width: 359px;
   margin: auto;
   padding: 10px;
  
@@ -85,6 +105,13 @@ header {
     font-size: 300%;
   }
 
+  #contact {
+    line-height: 1.5;
+    text-align: center;
+    font-size: 175%;
+    padding: 60px;
+  }
+
   footer {
     display: flex;
     justify-content: center;
@@ -96,6 +123,14 @@ header {
 .picsContainer{
   display: flex;
   flex-wrap: wrap;
+}
+.work:hover{
+  border: 5px solid tan;
+  color: rgb(72, 88, 83);
+}
+.gridPics:hover{
+  border: 5px solid tan;
+  color: rgb(72, 88, 83);
 }
 
   footer li {
