@@ -42,18 +42,27 @@ header {
     text-decoration: none;
   }
   
-  
+
 
   .work {
-    height: 800px;
+    margin: auto;
+    height: 700px;
     width: 90%;
+
   }
+
+.gridPics{
+  height: 600px;
+  width: 700px;
+  margin: auto;
+  padding: 10px;
+ 
+}
 
   .lines {
     height: 100px;
-    width: 100%;
+    width: 100vw;
   }
-
 
   main {
     display: flex;
@@ -70,11 +79,22 @@ header {
     display: flex;
     justify-content: center;
     padding: 2%;
-    background-color: #8a9477;
-    color: #fff;
+    background-color: white;
+    color: rgb(1, 1, 1);
   }
+
+.picsContainer{
+  display: flex;
+  flex-wrap: wrap;
+}
+
   footer li {
     display: flex;
     justify-content: space-between;
     min-width: 300px;
+    font-size: larger;
+    text-decoration: underline;
+    color: rgb(72, 88, 83);
   }
+
+
