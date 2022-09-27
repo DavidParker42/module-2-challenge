@@ -57,12 +57,22 @@ header {
   }
 
   #about-me {
-    text-align: center;
-padding: 75px;
+    text-align: left;
+    padding: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    line-height: 1.5;
+    color: #8a9477;
+  }
+
+  .contactParagraph li {
+    list-style-type: none;
+    color: #8a9477;
   }
 
 aside h3 {
-  
+color: #8a9477;
+
 }
 
   aside {
@@ -71,7 +81,8 @@ aside h3 {
     padding-right: .5rem;
     margin-right: .5rem;
     float: left;
-    boarder-right: 2px black solid;
+    border-style: none solid none none;
+    border-color: #8a9477;
   }
 
   aside h3 {
@@ -92,6 +103,8 @@ aside h3 {
   padding: 10px;
  
 }
+
+
 
   .lines {
     height: 100px;
@@ -142,7 +155,7 @@ aside h3 {
     min-width: 300px;
     font-size: larger;
     text-decoration: underline;
-    color: rgb(72, 88, 83);
+    color:#8a9477;
   }
 
 
