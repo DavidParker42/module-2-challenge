@@ -63,11 +63,14 @@ header {
     font-size: 100%;
     line-height: 1.5;
     color: #8a9477;
+    border-style: none none none solid;
+    border-color: #8a9477;
   }
 
   .contactParagraph li {
     list-style-type: none;
     color: #8a9477;
+    
   }
 
 aside h3 {
@@ -81,8 +84,7 @@ color: #8a9477;
     padding-right: .5rem;
     margin-right: .5rem;
     float: left;
-    border-style: none solid none none;
-    border-color: #8a9477;
+    
   }
 
   aside h3 {
@@ -126,6 +128,15 @@ color: #8a9477;
     line-height: 1.5;
     text-align: center;
     padding: 60px;
+    font-size: 115%;
+    border-style: none none none solid;
+    border-color: #8a9477;
+    
+  }
+
+  #contactParagraph contact li{
+    border-style: none none none solid;
+    border-color: #8a9477;
   }
 
   footer {
@@ -139,6 +150,8 @@ color: #8a9477;
 .picsContainer{
   display: flex;
   flex-wrap: wrap;
+  border-style: none none none solid;
+    border-color: #8a9477;
 }
 .work:hover{
   border: 5px solid tan;
