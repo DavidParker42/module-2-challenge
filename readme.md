@@ -1,2 +1,24 @@
-# module-2-challenge
-contains a portfolio of David Parker with his contact info, resume, and description
+# HTML, CSS, and Git: Code Refactor
+  HTML, CSS, and Git: Code Refactor
+  
+  ## Table of Contents
+  1. [Description](#description)
+  2. [Email](#email)
+  3. [Application Type](#application-type)
+  4. [Github repository link](#github-repository-link)
+
+  ## Description
+Portfolio containing links to projects including their github repositories 
+
+ 
+
+  ## Email
+  david.m.parker92@gmail.com
+
+
+
+  ## Application Type
+  CSS HTML
+
+  ## Github repository link
+  https://github.com/DavidParker42/module-2-challenge
