@@ -1,5 +1,5 @@
-# HTML, CSS, and Git: Code Refactor
-  HTML, CSS, and Git: Code Refactor
+# Advanced CSS: Portfolio
+  Advanced CSS: Portfolio
   
   ## Table of Contents
   1. [Description](#description)
